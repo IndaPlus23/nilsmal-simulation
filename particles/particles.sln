@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "particles", "particles.csproj", "{06942D1F-2079-4B23-87C5-0DA273E968D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06942D1F-2079-4B23-87C5-0DA273E968D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06942D1F-2079-4B23-87C5-0DA273E968D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06942D1F-2079-4B23-87C5-0DA273E968D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06942D1F-2079-4B23-87C5-0DA273E968D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4424FFC4-0523-4CAF-A05D-8277EBBD5C72}
+	EndGlobalSection
+EndGlobal
